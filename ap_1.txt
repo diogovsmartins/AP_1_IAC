@@ -1,0 +1,4 @@
+mkdir Ap1_iac para criar a pasta no meu computador
+touch Ap1_iac para abrir a pasta 
+git bash here no novo repositorio
+git clone para puxar o repositório remoto do github para o meu computador
