@@ -1,0 +1,8 @@
+git bash here  na pasta 
+git status pra ver como ta a pasta se os arquivos estão corretos 
+git add ap1_1.txt para adicionar só esse arquivo 
+git status pra ver se deu certo
+git commit -m "terceiro commit da ap1 porque eu sou tanso xd" para fechar o pacote do que vou mandar e uma tag explicando oque estou enviando
+git status pra ver se deu certo
+git push para enviar
+fim.
