@@ -2,3 +2,18 @@ mkdir Ap1_iac para criar a pasta no meu computador
 touch Ap1_iac para abrir a pasta 
 git bash here no novo repositorio
 git clone para puxar o repositório remoto do github para o meu computador
+git bash dentro da pasta q foi puxada pelo git clone
+git add  . para adicionar tudo 
+git status para ver se o arquivo foi adicionado mesmo 
+git commit -m envio da ap1 - para colocar os arquivos dentro do "malote" com uma identificação do que estou enviando
+git push para enviar os arquivos comitados
+git status pra ver se não houveram erros no commit ou no processo
+agora estou editando o arquivo de texto e vou salva-lo para commita-lo novamente
+git bash here de novo
+git init para iniciar o link com o repositório remoto
+git add . para adicionar novamente o arquivo editado
+git status pra ver se deu tudo certo
+git commit -m "segundo envio da ap1"
+git status pra checar de novo
+git push para enviar o arquivo 
+FIm.
