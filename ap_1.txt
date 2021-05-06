@@ -1,19 +1,24 @@
-mkdir Ap1_iac para criar a pasta no meu computador
-touch Ap1_iac para abrir a pasta 
-git bash here no novo repositorio
-git clone para puxar o repositório remoto do github para o meu computador
-git bash dentro da pasta q foi puxada pelo git clone
-git add  . para adicionar tudo 
-git status para ver se o arquivo foi adicionado mesmo 
-git commit -m envio da ap1 - para colocar os arquivos dentro do "malote" com uma identificação do que estou enviando
-git push para enviar os arquivos comitados
-git status pra ver se não houveram erros no commit ou no processo
-agora estou editando o arquivo de texto e vou salva-lo para commita-lo novamente
-git bash here de novo
-git init para iniciar o link com o repositório remoto
-git add . para adicionar novamente o arquivo editado
-git status pra ver se deu tudo certo
-git commit -m "segundo envio da ap1"
-git status pra checar de novo
-git push para enviar o arquivo 
-FIm.
+1-mkdir Ap1_iac para criar a pasta no meu computador
+2-touch Ap1_iac para abrir a pasta 
+3-git bash here no novo repositorio
+4-git clone para puxar o repositório remoto do github para o meu computador
+5-git bash dentro da pasta q foi puxada pelo git clone
+6-git add  . para adicionar tudo 
+7-git status para ver se o arquivo foi adicionado mesmo 
+8-git commit -m envio da ap1 - para colocar os arquivos dentro do "malote" com uma identificação do que estou enviando
+9-git push para enviar os arquivos comitados
+10-git status pra ver se não houveram erros no commit ou no processo
+11-agora estou editando o arquivo de texto e vou salva-lo para commita-lo novamente
+12-git bash here de novo
+13-git init para iniciar o link com o repositório remoto
+14-git add . para adicionar novamente o arquivo editado
+15-git status pra ver se deu tudo certo 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aliquet purus risus, vel pretium tellus egestas imperdiet. 
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+16-git commit -m "segundo envio da ap1"
+17-git status pra checar de novo
+Suspendisse laoreet elit at est suscipit ultricies. Maecenas et sollicitudin velit. Integer dictum augue non ornare feugiat. 
+Vivamus eleifend, nunc ut vestibulum rhoncus, eros erat tempus felis, vel lacinia urna metus ac sem. 
+Fusce bibendum libero nec cursus porttitor.
+18-git push para enviar o arquivo 
+19-FIm.
